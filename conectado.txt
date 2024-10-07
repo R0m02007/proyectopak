@@ -1,0 +1,5 @@
+git init 
+git add . 
+git commit -m "mi tarea"  
+git remote add origin https://github.com/R0m02007/Proyecto-paec.git
+git push   origin master
